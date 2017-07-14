@@ -1,0 +1,1 @@
+Pokemon Health bars turn yellow at 50% and red at 25%
