@@ -1,256 +1,256 @@
-1   is 25.395% || Chance to catch:  0.416% || AVG Balls needed: 240
-2   is 30.188% || Chance to catch:  0.830% || AVG Balls needed: 120
-3   is 33.333% || Chance to catch:  1.234% || AVG Balls needed: 81
-4   is 35.555% || Chance to catch:  1.598% || AVG Balls needed: 62
-5   is 38.094% || Chance to catch:  2.106% || AVG Balls needed: 47
-6   is 39.999% || Chance to catch:  2.560% || AVG Balls needed: 39
-7   is 41.025% || Chance to catch:  2.833% || AVG Balls needed: 35
-8   is 42.104% || Chance to catch:  3.143% || AVG Balls needed: 31
-9   is 44.443% || Chance to catch:  3.901% || AVG Balls needed: 25
-10  is 45.712% || Chance to catch:  4.366% || AVG Balls needed: 22
-11  is 45.712% || Chance to catch:  4.366% || AVG Balls needed: 22
-12  is 47.058% || Chance to catch:  4.904% || AVG Balls needed: 20
-13  is 48.483% || Chance to catch:  5.525% || AVG Balls needed: 18
-14  is 48.483% || Chance to catch:  5.525% || AVG Balls needed: 18
-15  is 49.998% || Chance to catch:  6.249% || AVG Balls needed: 16
-16  is 51.611% || Chance to catch:  7.095% || AVG Balls needed: 14
-17  is 51.611% || Chance to catch:  7.095% || AVG Balls needed: 14
-18  is 51.611% || Chance to catch:  7.095% || AVG Balls needed: 14
-19  is 53.333% || Chance to catch:  8.090% || AVG Balls needed: 12
-20  is 53.333% || Chance to catch:  8.090% || AVG Balls needed: 12
-21  is 55.171% || Chance to catch:  9.265% || AVG Balls needed: 10
-22  is 55.171% || Chance to catch:  9.265% || AVG Balls needed: 10
-23  is 55.171% || Chance to catch:  9.265% || AVG Balls needed: 10
-24  is 57.141% || Chance to catch: 10.661% || AVG Balls needed: 9
-25  is 57.141% || Chance to catch: 10.661% || AVG Balls needed: 9
-26  is 57.141% || Chance to catch: 10.661% || AVG Balls needed: 9
-27  is 57.141% || Chance to catch: 10.661% || AVG Balls needed: 9
-28  is 59.258% || Chance to catch: 12.330% || AVG Balls needed: 8
-29  is 59.258% || Chance to catch: 12.330% || AVG Balls needed: 8
-30  is 59.258% || Chance to catch: 12.330% || AVG Balls needed: 8
-31  is 59.258% || Chance to catch: 12.330% || AVG Balls needed: 8
-32  is 61.537% || Chance to catch: 14.340% || AVG Balls needed: 6
-33  is 61.537% || Chance to catch: 14.340% || AVG Balls needed: 6
-34  is 61.537% || Chance to catch: 14.340% || AVG Balls needed: 6
-35  is 61.537% || Chance to catch: 14.340% || AVG Balls needed: 6
-36  is 61.537% || Chance to catch: 14.340% || AVG Balls needed: 6
-37  is 63.998% || Chance to catch: 16.776% || AVG Balls needed: 5
-38  is 63.998% || Chance to catch: 16.776% || AVG Balls needed: 5
-39  is 63.998% || Chance to catch: 16.776% || AVG Balls needed: 5
-40  is 63.998% || Chance to catch: 16.776% || AVG Balls needed: 5
-41  is 63.998% || Chance to catch: 16.776% || AVG Balls needed: 5
-42  is 63.998% || Chance to catch: 16.776% || AVG Balls needed: 5
-43  is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
-44  is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
-45  is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
-46  is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
-47  is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
-48  is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
-49  is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
-50  is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
-51  is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
-52  is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
-53  is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
-54  is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
-55  is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
-56  is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
-57  is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
-58  is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
-59  is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
-60  is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
-61  is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
-62  is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
-63  is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
-64  is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
-65  is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
-66  is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
-67  is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
-68  is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
-69  is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
-70  is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
-71  is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
-72  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-73  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-74  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-75  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-76  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-77  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-78  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-79  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-80  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-81  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-82  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-83  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-84  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-85  is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
-86  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-87  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-88  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-89  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-90  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-91  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-92  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-93  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-94  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-95  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-96  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-97  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-98  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-99  is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-100 is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-101 is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-102 is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-103 is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-104 is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
-105 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-106 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-107 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-108 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-109 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-110 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-111 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-112 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-113 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-114 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-115 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-116 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-117 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-118 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-119 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-120 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-121 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-122 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-123 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-124 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-125 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-126 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-127 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-128 is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
-129 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-130 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-131 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-132 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-133 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-134 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-135 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-136 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-137 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-138 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-139 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-140 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-141 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-142 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-143 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-144 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-145 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-146 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-147 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-148 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-149 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-150 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-151 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-152 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-153 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-154 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-155 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-156 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-157 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-158 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-159 is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
-160 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-161 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-162 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-163 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-164 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-165 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-166 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-167 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-168 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-169 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-170 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-171 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-172 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-173 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-174 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-175 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-176 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-177 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-178 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-179 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-180 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-181 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-182 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-183 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-184 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-185 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-186 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-187 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-188 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-189 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-190 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-191 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-192 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-193 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-194 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-195 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-196 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-197 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-198 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-199 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-200 is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
-201 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-202 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-203 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-204 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-205 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-206 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-207 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-208 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-209 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-210 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-211 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-212 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-213 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-214 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-215 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-216 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-217 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-218 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-219 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-220 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-221 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-222 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-223 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-224 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-225 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-226 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-227 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-228 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-229 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-230 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-231 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-232 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-233 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-234 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-235 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-236 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-237 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-238 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-239 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-240 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-241 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-242 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-243 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-244 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-245 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-246 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-247 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-248 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-249 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-250 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-251 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-252 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-253 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-254 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
-255 is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+1   Shake chance is 25.395% || Chance to catch:  0.416% || AVG Balls needed: 240
+2   Shake chance is 30.188% || Chance to catch:  0.830% || AVG Balls needed: 120
+3   Shake chance is 33.333% || Chance to catch:  1.234% || AVG Balls needed: 81
+4   Shake chance is 35.555% || Chance to catch:  1.598% || AVG Balls needed: 62
+5   Shake chance is 38.094% || Chance to catch:  2.106% || AVG Balls needed: 47
+6   Shake chance is 39.999% || Chance to catch:  2.560% || AVG Balls needed: 39
+7   Shake chance is 41.025% || Chance to catch:  2.833% || AVG Balls needed: 35
+8   Shake chance is 42.104% || Chance to catch:  3.143% || AVG Balls needed: 31
+9   Shake chance is 44.443% || Chance to catch:  3.901% || AVG Balls needed: 25
+10  Shake chance is 45.712% || Chance to catch:  4.366% || AVG Balls needed: 22
+11  Shake chance is 45.712% || Chance to catch:  4.366% || AVG Balls needed: 22
+12  Shake chance is 47.058% || Chance to catch:  4.904% || AVG Balls needed: 20
+13  Shake chance is 48.483% || Chance to catch:  5.525% || AVG Balls needed: 18
+14  Shake chance is 48.483% || Chance to catch:  5.525% || AVG Balls needed: 18
+15  Shake chance is 49.998% || Chance to catch:  6.249% || AVG Balls needed: 16
+16  Shake chance is 51.611% || Chance to catch:  7.095% || AVG Balls needed: 14
+17  Shake chance is 51.611% || Chance to catch:  7.095% || AVG Balls needed: 14
+18  Shake chance is 51.611% || Chance to catch:  7.095% || AVG Balls needed: 14
+19  Shake chance is 53.333% || Chance to catch:  8.090% || AVG Balls needed: 12
+20  Shake chance is 53.333% || Chance to catch:  8.090% || AVG Balls needed: 12
+21  Shake chance is 55.171% || Chance to catch:  9.265% || AVG Balls needed: 10
+22  Shake chance is 55.171% || Chance to catch:  9.265% || AVG Balls needed: 10
+23  Shake chance is 55.171% || Chance to catch:  9.265% || AVG Balls needed: 10
+24  Shake chance is 57.141% || Chance to catch: 10.661% || AVG Balls needed: 9
+25  Shake chance is 57.141% || Chance to catch: 10.661% || AVG Balls needed: 9
+26  Shake chance is 57.141% || Chance to catch: 10.661% || AVG Balls needed: 9
+27  Shake chance is 57.141% || Chance to catch: 10.661% || AVG Balls needed: 9
+28  Shake chance is 59.258% || Chance to catch: 12.330% || AVG Balls needed: 8
+29  Shake chance is 59.258% || Chance to catch: 12.330% || AVG Balls needed: 8
+30  Shake chance is 59.258% || Chance to catch: 12.330% || AVG Balls needed: 8
+31  Shake chance is 59.258% || Chance to catch: 12.330% || AVG Balls needed: 8
+32  Shake chance is 61.537% || Chance to catch: 14.340% || AVG Balls needed: 6
+33  Shake chance is 61.537% || Chance to catch: 14.340% || AVG Balls needed: 6
+34  Shake chance is 61.537% || Chance to catch: 14.340% || AVG Balls needed: 6
+35  Shake chance is 61.537% || Chance to catch: 14.340% || AVG Balls needed: 6
+36  Shake chance is 61.537% || Chance to catch: 14.340% || AVG Balls needed: 6
+37  Shake chance is 63.998% || Chance to catch: 16.776% || AVG Balls needed: 5
+38  Shake chance is 63.998% || Chance to catch: 16.776% || AVG Balls needed: 5
+39  Shake chance is 63.998% || Chance to catch: 16.776% || AVG Balls needed: 5
+40  Shake chance is 63.998% || Chance to catch: 16.776% || AVG Balls needed: 5
+41  Shake chance is 63.998% || Chance to catch: 16.776% || AVG Balls needed: 5
+42  Shake chance is 63.998% || Chance to catch: 16.776% || AVG Balls needed: 5
+43  Shake chance is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
+44  Shake chance is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
+45  Shake chance is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
+46  Shake chance is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
+47  Shake chance is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
+48  Shake chance is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
+49  Shake chance is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
+50  Shake chance is 66.666% || Chance to catch: 19.752% || AVG Balls needed: 5
+51  Shake chance is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
+52  Shake chance is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
+53  Shake chance is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
+54  Shake chance is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
+55  Shake chance is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
+56  Shake chance is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
+57  Shake chance is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
+58  Shake chance is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
+59  Shake chance is 69.563% || Chance to catch: 23.416% || AVG Balls needed: 4
+60  Shake chance is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
+61  Shake chance is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
+62  Shake chance is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
+63  Shake chance is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
+64  Shake chance is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
+65  Shake chance is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
+66  Shake chance is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
+67  Shake chance is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
+68  Shake chance is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
+69  Shake chance is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
+70  Shake chance is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
+71  Shake chance is 72.725% || Chance to catch: 27.973% || AVG Balls needed: 3
+72  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+73  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+74  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+75  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+76  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+77  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+78  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+79  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+80  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+81  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+82  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+83  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+84  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+85  Shake chance is 76.189% || Chance to catch: 33.695% || AVG Balls needed: 2
+86  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+87  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+88  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+89  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+90  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+91  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+92  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+93  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+94  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+95  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+96  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+97  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+98  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+99  Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+100 Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+101 Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+102 Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+103 Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+104 Shake chance is 79.999% || Chance to catch: 40.958% || AVG Balls needed: 2
+105 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+106 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+107 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+108 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+109 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+110 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+111 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+112 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+113 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+114 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+115 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+116 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+117 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+118 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+119 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+120 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+121 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+122 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+123 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+124 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+125 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+126 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+127 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+128 Shake chance is 84.209% || Chance to catch: 50.284% || AVG Balls needed: 1
+129 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+130 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+131 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+132 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+133 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+134 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+135 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+136 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+137 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+138 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+139 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+140 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+141 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+142 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+143 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+144 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+145 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+146 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+147 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+148 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+149 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+150 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+151 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+152 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+153 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+154 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+155 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+156 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+157 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+158 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+159 Shake chance is 88.887% || Chance to catch: 62.424% || AVG Balls needed: 1
+160 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+161 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+162 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+163 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+164 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+165 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+166 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+167 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+168 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+169 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+170 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+171 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+172 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+173 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+174 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+175 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+176 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+177 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+178 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+179 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+180 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+181 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+182 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+183 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+184 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+185 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+186 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+187 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+188 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+189 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+190 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+191 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+192 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+193 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+194 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+195 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+196 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+197 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+198 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+199 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+200 Shake chance is 94.116% || Chance to catch: 78.462% || AVG Balls needed: 1
+201 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+202 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+203 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+204 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+205 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+206 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+207 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+208 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+209 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+210 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+211 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+212 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+213 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+214 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+215 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+216 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+217 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+218 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+219 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+220 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+221 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+222 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+223 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+224 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+225 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+226 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+227 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+228 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+229 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+230 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+231 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+232 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+233 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+234 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+235 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+236 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+237 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+238 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+239 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+240 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+241 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+242 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+243 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+244 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+245 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+246 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+247 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+248 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+249 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+250 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+251 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+252 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+253 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+254 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
+255 Shake chance is 99.998% || Chance to catch: 99.994% || AVG Balls needed: 1
 Done

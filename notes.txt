@@ -1,1 +1,5 @@
-Pokemon Health bars turn yellow at 50% and red at 25%
+1. Pokemon Health bars turn yellow at 50% and red at 25%
+2. Display Catch probability based on the minimum and maximum values of IV's.
+	i. Average those values to get a general probability of what the pokemons HP is.
+	ii. Use use the average HP to get values for Yellow or red values or current HP.
+	iii. This then gives an apporximate formula for the 'a' value.
