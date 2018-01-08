@@ -3,3 +3,6 @@
 	i. Average those values to get a general probability of what the pokemons HP is.
 	ii. Use use the average HP to get values for Yellow or red values or current HP.
 	iii. This then gives an apporximate formula for the 'a' value.
+
+
+3. Pokemon IVs range from 0-31 in gen 3 onward (including gen IV)

@@ -33,28 +33,39 @@ def aVal_Table():
 		e=65536-d
 		shake=(1-(e/65536.0))
 		chance=(shake**4)*100
-		print format(str(x),'3')+" Shake chance is "+"{:>6}".format(str(format(shake*100,'.3f')))+"% || Chance to catch: "+"{:>6}".format(str(format(chance,'.3f')))+"% || AVG Balls needed: "+str(int(100/chance))
-	print "Done"
+		print (format(str(x),'3')+" Shake chance is "+"{:>6}".format(str(format(shake*100,'.3f')))+"% || Chance to catch: "+"{:>6}".format(str(format(chance,'.3f')))+"% || AVG Balls needed: "+str(int(100/chance)))
+	print ("Done")
+#this can be done by taking two hpIV values and averaging, or by taking the median IV value. 
+#Math still works out.
+#15 is the median IV value.
+"""def hp_eval(lev,mon):#this require db lookup of mon and it's base hp.
+	a=2*mon.base
+	b=a*lev
+	c=b/100
+	d=c+lev+10
+	return d
 
+"""
 #aVal_Table()
 
 #-----------------start-----------------
-print "Hello Trainer, Welcome to the wonderful world of POKEMON\n"
+print ("Hello Trainer, Welcome to the wonderful world of POKEMON\n")
 
 realnums=True
 while realnums:
 	try:
-		hm=int(raw_input("Max HP: "))#hopefully a database lookup, and this turns into name or PKMNnumber or something.
-		hc=int(raw_input("Current HP: "))#probably change to green, yellow or red. Then multiply by the pokemons Max HP.
-		ball=float(raw_input("Which ball are you using: "))
-		status=float(raw_input("2 for slp/frz. 1.5 else. 1 for none: "))
-		pkmnRate=int(raw_input("What is the Pokemon catch rate? "))#replace with db lookup Has to be 1-255
+		hm=int(input("Max HP: "))#hopefully a database lookup, and this turns into name or PKMNnumber or something.
+		hc=int(input("Current HP: "))#probably change to green, yellow or red. Then multiply by the pokemons Max HP.
+		ball=float(input("Which ball are you using: "))
+		status=float(input("2 for slp/frz. 1.5 else. 1 for none: "))
+		pkmnRate=int(input("What is the Pokemon catch rate? "))#replace with db lookup Has to be 1-255
+		lvl=int(input("What is the Pokemon's level: "))
 		realnums=False#exits loop once all data has been input
 	except ValueError:
-		print "Print a valid number"
+		print ("Print a valid number")
 
 av=a_value(hm,hc,ball,status,pkmnRate)
 bv=b_value(av)
 cp=catch_Prob(bv)
-print "The probability of success: "+str(format(cp, '.3f'))+"%"
-print "Avg Balls needed: "+str(int(100/cp))
+print("The probability of success: "+str(format(cp, '.3f'))+"%")
+print("Avg Balls needed: "+str(int(100/cp)))
