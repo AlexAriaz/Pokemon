@@ -6,17 +6,21 @@
 #This Function gives the A Value of a throw. Can be used to find the probability.
 #Each math operation is separate because that is how it is done in Pokemon.
 def a_value(hpm, hpc, pball, stat, rate):
-	a=(3*hpm)-(2*hpc)
+	a=int(3*hpm)-int(2*hpc)
 	b=int(a*rate*pball*stat)
-	return int(b/(3*hpm))#Should be an int anyway.
+	c=int(b/(3*hpm))#Should be an int anyway.
+	if c>255:
+		return 255
+	else:
+		return c
 
 #This function will probably not be used, but it is nice to have as it is in the game. 
 #Each math operation is done separate because that is how it is done in Pokemon.
 def b_value(aval):
-	a=16711680/aval
+	a=int(16711680/aval)
 	b=int(a**(.5))
 	c=int(b**(.5))
-	return (1048560/c)
+	return int((1048560/c))
 
 #I do not want to write a super long if else statement, maybe later for efficiency. 
 def catch_Prob(b):
@@ -26,11 +30,11 @@ def catch_Prob(b):
 
 def aVal_Table():
 	for x in range(1,256):
-		a=16711680/x
+		a=int(16711680/x)
 		b=int(a**(.5))
 		c=int(b**(.5))
-		d=1048560/c#bvalue
-		e=65536-d
+		d=int(1048560/c)#bvalue
+		e=int(65536-d)
 		shake=(1-(e/65536.0))
 		chance=(shake**4)*100
 		print (format(str(x),'3')+" Shake chance is "+"{:>6}".format(str(format(shake*100,'.3f')))+"% || Chance to catch: "+"{:>6}".format(str(format(chance,'.3f')))+"% || AVG Balls needed: "+str(int(100/chance)))
@@ -65,7 +69,9 @@ while realnums:
 		print ("Print a valid number")
 
 av=a_value(hm,hc,ball,status,pkmnRate)
+print(av)
 bv=b_value(av)
+print(bv)
 cp=catch_Prob(bv)
 print("The probability of success: "+str(format(cp, '.3f'))+"%")
 print("Avg Balls needed: "+str(int(100/cp)))
