@@ -4,6 +4,11 @@
 #(R,S,E,D,P,Pt,HG,SS)
 import MySQLdb
 
+
+def hp_value(base,lvl):
+	a=int(((base+7)*2*lvl)/100)
+	b=int(a+lvl+10)
+	return b
 #This Function gives the A Value of a throw. Can be used to find the probability.
 #Each math operation is separate because that is how it is done in Pokemon.
 def a_value(hpm, hpc, pball, stat, rate):
@@ -65,11 +70,14 @@ while loop:
 	if (str(exists)=="None"):
 		print (pkmnname+" Does not exist, please try again")
 	else:	
-		print exists[1]
-
-
-
-		loop=False
+		lvl=int(input("What is the Pokemon's level: "))
+		hm=hp_value(int(exists[2]),lvl)
+		hc=int(hm*int(raw_input("What approx hp '%' are they at? "))/100)
+		ball=float(input("Which ball are you using: "))
+		status=float(input("2 for slp/frz. 1.5 for par/brn/psn. 1 for none: "))
+		pkmnRate=int(exists[3])
+		
+		loop=False#exits loop once all data has been input
 
 #print ("done")
 """
@@ -86,10 +94,9 @@ while realnums:
 	except ValueError:
 		print ("Print a valid number")
 """
-"""
+
 av=a_value(hm,hc,ball,status,pkmnRate)
 bv=b_value(av)
 cp=catch_Prob(bv)
 print("The probability of success: "+str(format(cp, '.3f'))+"%")
 print("Avg Balls needed: "+str(int(100/cp)))
-"""
