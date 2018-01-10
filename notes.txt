@@ -6,3 +6,5 @@
 
 
 3. Pokemon IVs range from 0-31 in gen 3 onward (including gen IV)
+4. Wild pokemon have 0 EVs
+5. HP=(((base+IV)*2*level)/100)+level+10

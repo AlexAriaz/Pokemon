@@ -1,7 +1,8 @@
 #Alex Ariaz
 #Pokemon This Calculator finds the Probability and Avg number of Balls you need to Catch a specific Pokemon.
-#Gen 3 and 4 only. (Ruby, Sapphire, Emerald, Diamond, Pearl, Paltinum, Heart Gold, Soul Silver)
+#Gen 3 and 4 only. 
 #(R,S,E,D,P,Pt,HG,SS)
+import MySQLdb
 
 #This Function gives the A Value of a throw. Can be used to find the probability.
 #Each math operation is separate because that is how it is done in Pokemon.
@@ -54,7 +55,24 @@ def aVal_Table():
 
 #-----------------start-----------------
 print ("Hello Trainer, Welcome to the wonderful world of POKEMON\n")
+cnx=MySQLdb.connect(host="localhost",user='root',passwd="farside159",db='pokemon_stats')
+cur=cnx.cursor()
+loop=True
+while loop:
+	pkmnname=str(raw_input("What PKMN are you trying to catch? "))
+	cur.execute("SELECT * from gen7_info where name=%s",(pkmnname,))
+	exists=cur.fetchone()
+	if (str(exists)=="None"):
+		print (pkmnname+" Does not exist, please try again")
+	else:	
+		print exists[1]
 
+
+
+		loop=False
+
+#print ("done")
+"""
 realnums=True
 while realnums:
 	try:
@@ -67,11 +85,11 @@ while realnums:
 		realnums=False#exits loop once all data has been input
 	except ValueError:
 		print ("Print a valid number")
-
+"""
+"""
 av=a_value(hm,hc,ball,status,pkmnRate)
-print(av)
 bv=b_value(av)
-print(bv)
 cp=catch_Prob(bv)
 print("The probability of success: "+str(format(cp, '.3f'))+"%")
 print("Avg Balls needed: "+str(int(100/cp)))
+"""
